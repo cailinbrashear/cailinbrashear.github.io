@@ -1,1 +1,9 @@
 h1 { color: darkred; }
+ul.main-menu { color: yellow; }
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.main-menu>li {
+    display: inline;
+}
