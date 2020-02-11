@@ -25,7 +25,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
-    color: Tomato;
+    color: red;
   font-family: 'Sacramento';
 }
 .frame {
