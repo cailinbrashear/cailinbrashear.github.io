@@ -25,6 +25,7 @@ a:active {
 
 a, a:link, a:visited, a:hover, a:active {
 background-color: darkred;
+shape: circle;
 color: white;
 padding: 10px 25px;
 text-align: center;
