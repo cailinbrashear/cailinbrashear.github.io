@@ -18,6 +18,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+    color: Tomato;
 }
 .frame {
   width: 75%;
