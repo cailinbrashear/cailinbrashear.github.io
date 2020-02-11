@@ -58,6 +58,7 @@ ul.main-menu>li {
     color: black;
   background color: none;
   font-family: 'Shadows Into Light', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
 }
 @font-face: {
 font-family: 'Shadows Into Light', cursive;
