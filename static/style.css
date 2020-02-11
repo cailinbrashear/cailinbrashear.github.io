@@ -23,7 +23,7 @@ a:active {
   color: red;
 }
 
-a:link, a:visited, a:hover, a:active {
+a, a:link, a:visited, a:hover, a:active {
 background-color: darkred;
 color: white;
 padding: 10px 25px;
