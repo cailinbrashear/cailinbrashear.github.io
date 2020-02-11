@@ -14,10 +14,10 @@ a {
 }
 a:link {
   color: black;
-  text-decoloration: underline;
+  text-decoloration: none;
 }
 a:visited {
-  color: red; 
+  color: darkgrey; 
 } 
 a:hover {
   color: red;
