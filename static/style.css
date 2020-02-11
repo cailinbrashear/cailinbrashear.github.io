@@ -5,7 +5,7 @@ font-family: 'Playfair Display SC', serif;
 h1 {
   color: Black; 
   font-family: 'Cedarville Cursive', cursive;
-  <link href="https://fonts.googleapis.com/css?family=Cedarville+Cursive|Lacquer&display=swap" rel="stylesheet">
+  font-variant: normal;
   text-align: center;
   margin-bottom: 20px;
 }
