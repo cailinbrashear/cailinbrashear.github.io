@@ -28,7 +28,7 @@ a:active {
 }
 
 a:link, a:visited, a:hover, a:active {
-background-color: green;
+background-color: red;
 color: white;
 padding: 10px 25px;
 text-align: center;
@@ -44,7 +44,6 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     color: black;
-  background-color: lightgrey; 
   font-family: Sacramento;
 }
 .frame {
