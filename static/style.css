@@ -10,10 +10,12 @@ h1 {
   margin-bottom: 20px;
 }
 a:link {
-  color: black
+  color: black;
+  text decoloration: none;
 }
 a:hover {
-  color: red
+  color: red;
+  text decoloration: underline;
 } 
 ul.main-menu {
     list-style-type: none;
