@@ -30,7 +30,7 @@ padding: 10px 25px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
-border-style: dotted;
+border-style: outset;
 border-width: 5px;
 border-color: black;
 }
