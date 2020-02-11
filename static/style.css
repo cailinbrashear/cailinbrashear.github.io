@@ -3,7 +3,7 @@ font-family: 'Playfair Display', serif;
   font-size: 125%;
 }
 h1 {
-  color:Tomato; 
+  color: Tomato; 
   font-family: 'Playfair Display', serif;
   font-variant: small-caps;
   text-align: center;
@@ -19,6 +19,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     color: Tomato;
+    font-family: 'Sacramento', cursive;
 }
 .frame {
   width: 75%;
