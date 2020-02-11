@@ -19,7 +19,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     color: Tomato;
-    font-family: 'Sacramento', cursive;
+  font-family: 'Sacramento', cursive;
 }
 .frame {
   width: 75%;
