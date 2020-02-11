@@ -9,6 +9,9 @@ h1 {
   text-align: center;
   margin-bottom: 20px;
 }
+a {
+  text-decoloration: none;
+}
 a:link {
   color: black;
   text-decoloration: none;
