@@ -57,8 +57,13 @@ ul.main-menu>li {
     display: inline;
     color: black;
   background color: none;
-  font-family: Century Gothic, sans-serif;
+  font-family: 'Shadows Into Light', cursive;
 }
+@font-face: {
+font-family: 'Shadows Into Light', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+}
+
 .frame {
   width: 75%;
   margin-left: auto;
