@@ -14,14 +14,14 @@ a {
 }
 a:link {
   color: black;
-  text-decoloration: none;
+  text-decoloration: underline;
 }
 a:hover {
   color: red;
   text-decoloration: underline;
 } 
 a:visited {
-  color: yellow; 
+  color: red; 
 } 
 ul.main-menu {
     list-style-type: none;
@@ -32,7 +32,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     color: black;
-  background-color: grey; 
+  background-color: lightgrey; 
   font-family: Sacramento;
 }
 .frame {
