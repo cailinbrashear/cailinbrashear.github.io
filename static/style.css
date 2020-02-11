@@ -9,7 +9,12 @@ h1 {
   text-align: center;
   margin-bottom: 20px;
 }
-
+a:link {
+  color: black
+}
+a:hover {
+  color: red
+} 
 ul.main-menu {
     list-style-type: none;
     margin: 0;
