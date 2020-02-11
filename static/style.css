@@ -17,6 +17,9 @@ a:hover {
   color: red;
   text-decoloration: underline;
 } 
+a:visited {
+  color: yellow; 
+} 
 ul.main-menu {
     list-style-type: none;
     margin: 0;
