@@ -28,8 +28,8 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
-    color: darkgrey;
-  background-color: black; 
+    color: black;
+  background-color: grey; 
   font-family: Sacramento;
 }
 .frame {
