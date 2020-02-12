@@ -46,6 +46,7 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+  text-align: center;
     color: black;
   background color: none;
   font-family: 'Shadows Into Light', cursive;
