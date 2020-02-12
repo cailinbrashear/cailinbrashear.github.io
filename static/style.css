@@ -33,6 +33,7 @@ display: inline-block;
 border-style: outset;
 border-width: 5px;
 border-color: black;
+font-variant: smallcaps;
 }
 ul.main-menu {
     list-style-type: none;
