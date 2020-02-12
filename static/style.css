@@ -1,6 +1,7 @@
 body {
 font-family: 'Playfair Display SC', serif;
   font-size: 125%;
+  background-color: Beige; 
 }
 h1 {
   color: Black; 
@@ -43,7 +44,7 @@ ul.main-menu {
   text-align: center;
 }
 ul.main-menu>li {
-    display: inline;
+    display: center;
     color: black;
   background color: none;
   font-family: 'Shadows Into Light', cursive;
