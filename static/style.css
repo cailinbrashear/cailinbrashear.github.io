@@ -76,6 +76,9 @@ sub-menu {
   display: block;
   color: black;
 }
+p {
+  text-indent: 50px; 
+}
 
 ul.main {
 text-align: center; 
