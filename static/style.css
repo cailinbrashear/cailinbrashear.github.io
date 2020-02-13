@@ -68,3 +68,7 @@ sub-menu {
   display: block;
   color: black;
 }
+
+ul.main {
+text-align: center; 
+}
