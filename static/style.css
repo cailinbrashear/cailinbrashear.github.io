@@ -13,6 +13,9 @@ h1 {
 h2 {
   font-family: cedarville Cursive, cursive; 
 }
+h3 { 
+ text-align: center;
+}
 
 a:link {
   color: black;
