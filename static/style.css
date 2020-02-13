@@ -1,7 +1,8 @@
 body {
 font-family: 'Playfair Display SC', serif;
   font-size: 125%;
-  background-color: Beige; 
+  background-color: Beige;
+  text-align: center;
 }
 h1 {
   color: Black; 
