@@ -20,6 +20,13 @@ a:visited {
 a:hover {
   color: black;
 } 
+#nav li li a:hover {
+    background-color:#BDB76B;
+    font-weight:500;
+    color:grey;
+    font-size:120%;
+    width:200px;
+}
 a:active {
   color: red;
 }
