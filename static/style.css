@@ -51,7 +51,9 @@ ul.main-menu>li {
   background color: none;
   font-variant: smallcaps;
 }
-
+sub-menu {
+  text-align: center;
+}
 .frame {
   width: 75%;
   margin-left: auto;
