@@ -3,6 +3,8 @@ font-family: 'Playfair Display SC', serif;
   font-size: 125%;
   background-color: Beige;
   text-align: center;
+  margin-right: 100px; 
+  margin-left: 100px;
 }
 h1 {
   color: Black; 
