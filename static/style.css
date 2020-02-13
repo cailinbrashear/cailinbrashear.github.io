@@ -39,10 +39,10 @@ font-variant: smallcaps;
 ul.main-menu {
     list-style-type: center;
   display: inline;
+  text-align: center;
     margin: 10px;
     padding: 10px 25px;
   font-variant: smallcaps;
-  text-align: center;
 }
 ul.main-menu>li {
     display: inline;
