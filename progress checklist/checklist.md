@@ -1,6 +1,6 @@
 | Assignment | Status | Date Started | Date Completed | Notes |
 |---|---|---|---|---|
-| Complete Work-in-Progress Submission 2 | done | 3/17/2020 | 3/18/2020 | Committed changes on Github and placed link Box folder|
+| Complete Work-in-Progress Submission 2 | | | |
 | Complete Audacity tutorial 1: Editing an Existing Audio File | | | |
 | Complete Audacity tutorial 2: Mixing a Narration with Background Music  | | | |
 | Complete Audacity tutorial 3: Vocal Removal and Isolation (requires audacity) | | | |
