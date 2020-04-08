@@ -86,12 +86,12 @@ ul.main {
 text-align: center; 
 }
 table, th, td {
-  border: 2px solid darkred;
+  border: 2px solid black;
   border-collapse: collapse;
 }
 
 table { margin: 0 auto; }
 
 th { text-align: center; 
-     background-color: gold;
-     color: black;}
+     background-color: darkred;
+     color: beige;}
