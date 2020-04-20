@@ -62,6 +62,7 @@ ul.main-menu {
   font-variant: smallcaps;
 }
 ul.main-menu>li {
+  list-style-type: inline;
     display: inline;
   text-align: center;
     color: black;
@@ -69,6 +70,7 @@ ul.main-menu>li {
   font-variant: smallcaps;
 }
 sub-menu {
+    list-style-type: inline;
   text-align: center;
   display: inline;
 }
