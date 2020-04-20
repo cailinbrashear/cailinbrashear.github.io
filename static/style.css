@@ -70,6 +70,7 @@ ul.main-menu>li {
 }
 sub-menu {
   text-align: center;
+  display: inline;
 }
 .frame {
   width: 75%;
