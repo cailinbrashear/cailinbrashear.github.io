@@ -114,3 +114,10 @@ th { text-align: center;
     width: auto;
   border: 2px solid black;
 }
+
+#genre-img {
+  align-self: center:
+    padding: 0 2%;
+  height: 10em;
+  width: auto;
+}
