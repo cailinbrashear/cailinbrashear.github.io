@@ -99,3 +99,10 @@ table { margin: 0 auto; }
 th { text-align: center; 
      background-color: darkred;
      color: beige;}
+
+#parody-img {
+    float: left;
+    padding: 0 2%;
+    height: 30em;
+    width: auto;
+}
