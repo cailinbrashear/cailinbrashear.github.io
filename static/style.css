@@ -69,7 +69,7 @@ ul.main-menu>li {
   background color: none;
   font-variant: smallcaps;
 }
-sub-menu {
+ul.sub-menu {
     list-style-type: inline;
   text-align: center;
   display: inline;
