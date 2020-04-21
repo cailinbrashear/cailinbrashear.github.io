@@ -101,7 +101,7 @@ th { text-align: center;
      color: beige;}
 
 #parody-img {
-    float: left;
+    float: center;
     padding: 0 2%;
     height: 30em;
     width: auto;
