@@ -73,6 +73,7 @@ ul.sub-menu {
     list-style-type: inline;
   text-align: center;
   display: inline;
+  padding: 10px 25px;
 }
 .frame {
   width: 75%;
