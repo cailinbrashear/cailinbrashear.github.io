@@ -128,4 +128,10 @@ th { text-align: center;
    height: 20em;
    width: auto;
 }
-  
+
+#storyboard-img {
+     align-self: center:
+   padding: 0 2%;
+   height: 30em;
+   width: auto;
+}
