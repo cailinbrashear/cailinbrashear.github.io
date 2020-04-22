@@ -82,22 +82,30 @@ ul.sub-menu {
   display: block;
   color: black;
 }
-p {
+p1 {
   text-indent: 50px; 
 }
+
 p2 {
   text-indent: 50px; 
 }
+
 p3 {
   text-indent: 50px; 
 }
+
 p4 {
   text-indent: 50px; 
 }
+
 p5 {
   text-indent: 50px; 
 }
+
 p6 {
+  text-indent: 50px; 
+}
+p7 {
   text-indent: 50px; 
 }
 
