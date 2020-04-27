@@ -45,7 +45,7 @@ a, a:link, a:visited, a:hover, a:active {
 background-color: darkred;
 color: white;
 padding: 15px 25px;
-  vertical padding: 15px
+  vertical padding: 15px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
@@ -60,6 +60,7 @@ ul.main-menu {
   text-align: center;
     margin: 10px;
     padding: 10px 25px;
+  vertical padding: 15px;
   font-variant: smallcaps;
 }
 ul.main-menu>li {
@@ -69,6 +70,7 @@ ul.main-menu>li {
     color: black;
   background color: none;
   font-variant: smallcaps;
+  vertical padding: 15px;
 }
 ul.sub-menu {
     list-style-type: inline;
