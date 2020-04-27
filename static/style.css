@@ -55,6 +55,7 @@ border-style: outset;
 border-width: 3px;
 border-color: black;
 font-variant: smallcaps;
+  margin-bottom: 10px;
 }
 ul.main-menu {
     list-style-type: inline;
