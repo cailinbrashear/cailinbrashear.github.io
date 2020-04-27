@@ -44,8 +44,6 @@ a:active {
 a, a:link, a:visited, a:hover, a:active {
 background-color: darkred;
 color: white;
-padding: 15px 25px;
-padding-top: 15px;
   padding-bottom: 15px;
 text-align: center;
 text-decoration: none;
@@ -60,7 +58,6 @@ ul.main-menu {
   display: center;
   text-align: center;
     margin: 10px;
-    padding: 10px 25px 10px 25px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left 15px; 
@@ -74,15 +71,12 @@ ul.main-menu>li {
     color: black;
   background color: none;
   font-variant: smallcaps;
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
 ul.sub-menu {
     list-style-type: inline;
   text-align: center;
   display: inline;
-  padding: 10px 25px;
-  padding-vertical: 15px;
+  padding: 15px 25px;
 }
 .frame {
   width: 75%;
