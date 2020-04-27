@@ -158,3 +158,15 @@ th { text-align: center;
    height: 40em;
    width: auto;
 }
+#Ad-img {
+     align-self: Left:
+   padding: 0 2%;
+   height: 20em;
+   width: auto;
+}
+#Ad2-img {
+     align-self: right:
+   padding: 0 2%;
+   height: 20em;
+   width: auto;
+}
