@@ -44,10 +44,10 @@ a:active {
 a, a:link, a:visited, a:hover, a:active {
 background-color: darkred;
 color: white;
-  padding-top 15px;
+  padding-top: 15px;
   padding-bottom: 15px;
-  padding-left 25px;
-  padding-right 25px;
+  padding-left: 15px;
+  padding-right: 15px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
@@ -63,8 +63,8 @@ ul.main-menu {
     margin: 10px;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left: 25px; 
-  padding-right: 25px;
+  padding-left: 15px; 
+  padding-right: 15px;
   font-variant: smallcaps;
 }
 ul.main-menu>li {
@@ -76,8 +76,8 @@ ul.main-menu>li {
   font-variant: smallcaps;
   padding-top: 15px;
   padding-bottom: 15px;
-  padding-left 25px;
-  padding-right 25px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 ul.sub-menu {
     list-style-type: inline;
