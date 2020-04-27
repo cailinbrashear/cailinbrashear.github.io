@@ -59,7 +59,7 @@ ul.main-menu {
   display: center;
   text-align: center;
     margin: 10px;
-  padding 15px 25px;
+  padding 10px 10px;
   font-variant: smallcaps;
 }
 ul.main-menu>li {
@@ -69,13 +69,13 @@ ul.main-menu>li {
     color: black;
   background color: none;
   font-variant: smallcaps;
-  padding: 15px 25px;
+  padding: 10px 10px;
 }
 ul.sub-menu {
     list-style-type: inline;
   text-align: center;
   display: inline;
-  padding: 15px 25px;
+  padding: 10px 10px;
 }
 .frame {
   width: 75%;
